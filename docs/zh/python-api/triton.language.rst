@@ -118,6 +118,15 @@ Math Ops
     sqrt_rn
     umulhi
 
+Elementwise Ops
+---------------
+
+.. autosummary::
+    :toctree: generated
+    :nosignatures:
+
+    map_elementwise
+
 Reduction Ops
 -------------
 
